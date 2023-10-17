@@ -1,10 +1,13 @@
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<br>
+<hr/>
 <h1 align="center">Hi 👋, I'm Wayline Jeffries</h1>
 <h3 align="center">A passionate junior developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wayline16&label=Profile%20views&color=0e75b6&style=flat" alt="wayline16" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@jeffrieswayline" target="blank"><img src="https://img.shields.io/twitter/follow/@jeffrieswayline?logo=twitter&style=for-the-badge" alt="@jeffrieswayline" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@jeffrieswayline" target="blank"><img src="https://img.shields.io/twitter/follow/jeffrieswayline?logo=twitter&style=for-the-badge" alt="@jeffrieswayline" /></a> </p>
 
 - 🌱 I’m currently learning **C**
 
