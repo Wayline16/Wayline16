@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@jeffrieswayline" target="blank"><img src="https://img.shields.io/twitter/follow/jeffrieswayline?logo=twitter&style=for-the-badge" alt="@jeffrieswayline" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **C# , MVC & APIs**
 
